@@ -58,7 +58,6 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
             self.movies = dataDictionary["results"] as! [[String:Any]]
             
             self.collectionView.reloadData()
-            print(self.movies)
         // Do any additional setup after loading the view.
            }
         }

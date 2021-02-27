@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "9e6575d8a8f94da6e0f02e97b371c95a"
+build_time: [1614365801, 917038000]
+inputs:
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/flixpart1/MovieDetailsViewController.swift": [1614307591, 83017561]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/flixpart1/AppDelegate.swift": [1613956616, 251005060]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/flixpart1/SceneDelegate.swift": [1613956616, 254622290]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/flixpart1/MovieCell.swift": [1614140213, 101110960]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/flixpart1/MoviesViewController.swift": [1614307448, 569892151]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/flixpart1/MovieGridViewController.swift": [1614365801, 849155781]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/flixpart1/MovieGridCell.swift": [1614359608, 992070904]

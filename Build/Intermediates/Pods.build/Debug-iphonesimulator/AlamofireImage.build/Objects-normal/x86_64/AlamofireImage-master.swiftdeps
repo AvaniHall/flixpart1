@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "08f4ac7be8d9d7abe48170e2a12de775"
+build_time: [1614365777, 883915000]
+inputs:
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/AFIError.swift": [1614144486, 47154820]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/Image.swift": [1614144486, 47413143]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/ImageCache.swift": [1614144486, 46607250]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/ImageDownloader.swift": [1614144486, 47893259]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/ImageFilter.swift": [1614144486, 48724364]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1614144486, 48461060]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1614144486, 47655450]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1614144486, 46927514]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/flixpart1/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1614144486, 48129622]
